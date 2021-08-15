@@ -1,0 +1,2 @@
+# RedRuby
+RedRuby discord bot
