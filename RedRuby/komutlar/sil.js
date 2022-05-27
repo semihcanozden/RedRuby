@@ -8,7 +8,7 @@ module.exports = {
     const {MessageEmbed}=require('discord.js')
     const embed = new MessageEmbed()
     .setTitle('Başarıyla mesajlar silindi.')
-    .setDiscription('Silinen mesaj sayısı: ' + args)
+    .setDescription('Silinen mesaj sayısı: ' + args)
     message.channel.send(embed).then(mesaj => {
       setTimeout(function(){
         mesaj.delete()

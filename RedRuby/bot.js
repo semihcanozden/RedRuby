@@ -293,4 +293,4 @@ function play(guild, song) {
 
 //////////////////////////////////////////////////////////////////////////////////////////
 
-client.login('ODcxNjk5MjY0NDE2Mzk5NDEw.YQfHNA.kc-l-AK5fE6hGYS3k0NZLob-uWc')
+client.login('ODcxNjk5MjY0NDE2Mzk5NDEw.G6SsVe.MagHGsSM6Th3eA8r05KTfB4r4hT4ms8cJ2MA-A')
